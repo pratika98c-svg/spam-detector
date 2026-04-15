@@ -27,7 +27,7 @@ SMS Spam Collection Dataset
 
  How It Works
 1. Load the SMS dataset
-2. Clean the text - lowercase, remove punctuation, 
+2. Clean the text lowercase, remove punctuation, 
    remove stopwords
 3. Convert text to numbers using CountVectorizer
 4. Train Multinomial Naive Bayes model
@@ -39,10 +39,7 @@ SMS Spam Collection Dataset
 - Algorithm: Multinomial Naive Bayes
 - Train/Test Split: 80/20
 
- How To Run
-1. Open the notebook in Google Colab
-2. Run all cells in order (Cell 1 to Cell 8)
-3. Type your own message in Cell 8 to test
+
 
  What I Learned
 - Text preprocessing using NLTK
